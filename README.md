@@ -59,15 +59,16 @@ Network-KeyLogger-Monitor/
 └── LICENSE                # MIT License
 
 ## 🤝 Contribuire
-🍴 Fork del repository
 
-\1.🔧 Crea un branch (git checkout -b feature/AmazingFeature)
+| Passo | Comando |
+|-------|---------|
+| 🍴 Fork | Clicca su "Fork" in alto a destra |
+| 🔧 Branch | `git checkout -b feature/AmazingFeature` |
+| 💾 Commit | `git commit -m 'Add AmazingFeature'` |
+| 📤 Push | `git push origin feature/AmazingFeature` |
+| 🔃 Pull Request | Apri PR su GitHub |
 
-\2.💾 Commit delle modifiche (git commit -m 'Add AmazingFeature')
-
-\3.📤 Push sul branch (git push origin feature/AmazingFeature)
-
-\4🔃 Apri una Pull Request
+> 💡 **Nota**: Sostituisci `AmazingFeature` con il nome della tua modifica.
 
 ## 📝 Changelog
 v1.0.0 (Maggio 2026)
