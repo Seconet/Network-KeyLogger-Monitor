@@ -61,13 +61,13 @@ Network-KeyLogger-Monitor/
 ## 🤝 Contribuire
 🍴 Fork del repository
 
-1.🔧 Crea un branch (git checkout -b feature/AmazingFeature)
+\1.🔧 Crea un branch (git checkout -b feature/AmazingFeature)
 
-2.💾 Commit delle modifiche (git commit -m 'Add AmazingFeature')
+\2.💾 Commit delle modifiche (git commit -m 'Add AmazingFeature')
 
-3.📤 Push sul branch (git push origin feature/AmazingFeature)
+\3.📤 Push sul branch (git push origin feature/AmazingFeature)
 
-4🔃 Apri una Pull Request
+\4🔃 Apri una Pull Request
 
 ## 📝 Changelog
 v1.0.0 (Maggio 2026)
