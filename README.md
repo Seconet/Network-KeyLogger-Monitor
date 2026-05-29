@@ -38,3 +38,72 @@ A differenza degli antivirus tradizionali che si concentrano sulle firme dei fil
 2. Porta → è una porta C2 nota? (21, 4444, 1337? → CRITICO)
 3. Destinazione → IP in whitelist? (no → SOSPETTO)
 4. Comportamento → pattern periodico di connessioni? (sì → ATTACCO)
+
+## 🚀 Installazione
+Prerequisiti
+- Python 3.8+
+- Windows 10/11 (Linux compatibile, ma ottimizzato per Windows)
+
+## Installazione rapida
+1. Clona o scarica lo zip dal repository
+2. Installa le dipendenze
+pip install -r requirements.txt
+3. Esegui come amministratore (consigliato)
+python network_monitor.py
+
+## 📁 Struttura del progetto
+Network-KeyLogger-Monitor/
+├── network_monitor.py      # Main script
+├── requirements.txt        # Dipendenze
+├── README.md              # Documentazione
+└── LICENSE                # MIT License
+
+## 🤝 Contribuire
+🍴 Fork del repository
+
+1.🔧 Crea un branch (git checkout -b feature/AmazingFeature)
+
+2.💾 Commit delle modifiche (git commit -m 'Add AmazingFeature')
+
+3.📤 Push sul branch (git push origin feature/AmazingFeature)
+
+4🔃 Apri una Pull Request
+
+## 📝 Changelog
+v1.0.0 (Maggio 2026)
+✨ Rilascio iniziale
+
+🔍 Enumerazione connessioni attive
+
+🚨 Alert colorati in console
+
+📊 Report finale delle minacce
+
+## ⚖️ Licenza
+Distribuito sotto licenza MIT. Vedere LICENSE per maggiori informazioni.
+
+## ⚠️ Disclaimer legale
+Questo strumento è fornito esclusivamente per scopi educativi e di difesa.
+Il monitoraggio di dispositivi senza esplicita autorizzazione viola le leggi sulla privacy (GDPR, art. 615-ter c.p. e normative equivalenti). Utilizza questo tool solo su:
+
+✅ Sistemi di tua proprietà
+✅ Dispositivi per cui hai ricevuto autorizzazione scritta
+✅ Ambienti di laboratorio controllati
+
+L'autore non è responsabile per usi impropri o illegali di questo software.
+
+## 📧 Contatti
+🔗 Sito: seconet.it
+
+🐛 Issue: GitHub Issues
+
+## ⭐ Supporta il progetto
+
+Se trovi utile questo tool:
+
+⭐ Metti una stella sul repository
+
+🐦 Condividi sui social
+
+🔗 Linka il progetto sul tuo sito
+
